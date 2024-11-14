@@ -2,11 +2,10 @@
 
 **PolyLend is an experimental peer-to-peer lending protocol allowing users to borrow USDC against conditional token positions.**
 
-bm-polylend is a forked version of the original polylend contract with slight modifications fixing bugs found and tweaked to be more suited to our use case.
-
-All credits go to the contributors over at https://github.com/Polymarket/PolyLend 
+bm-polylend is a forked version of the [Polylend contract](https://github.com/Polymarket/PolyLend) with a functional frontend & deployed contract, slight modifications fixing bugs found and tweaks to be more suited to our use case. All credits go to the contributors at Polymarket.
 
 Frontend: https://www.betmoar.fun/lend
+
 Contract: [0x5a7624fBd9Ee6baF806c0C01E90e52025fE9e4Df](https://polygonscan.com/address/0x5a7624fBd9Ee6baF806c0C01E90e52025fE9e4Df#code)
 
 This smart-contract is _unaudited_ and _experimental_. Use at your own risk.
