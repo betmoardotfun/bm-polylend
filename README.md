@@ -13,6 +13,14 @@ Don't hesitate to reach out if you have questions or find any bugs or issues.
 
 Find the blog-post [here](https://mirror.xyz/polymarket.eth/8t4zhQlAza5M52dV4lVvh94NDhbJr2Dos4qvih80flU).
 
+## Discord Alerts
+
+All requests, offers, loans are all tracked and visible realtime in our [discord](https://dub.sh/betmoar) as well to provide an easy way to track ongoing activity with the bm-polylend contract.
+
+![image](https://github.com/user-attachments/assets/7f1e882f-33ba-48a8-bb36-29b94b546b87)
+![image](https://github.com/user-attachments/assets/b7598efa-1af5-482a-8871-da3dcd6300f7)
+![image](https://github.com/user-attachments/assets/14ad1e70-95b9-4a90-99e9-41c410afe8d5)
+
 ## Usage
 
 This repository uses [Forge](https://book.getfoundry.sh/).
